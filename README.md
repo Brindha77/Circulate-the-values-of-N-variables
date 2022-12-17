@@ -33,6 +33,5 @@ n = int(input())
 ```
 
 ## Output:
-![](./out2.png)
-
+![output](./out2.png)
 ## Result:
