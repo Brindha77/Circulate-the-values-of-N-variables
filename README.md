@@ -33,5 +33,6 @@ n = int(input())
 ```
 
 ## Output:
-![output](./out2.png)
+![output](./circulate%20output.png)
 ## Result:
+Thus the circulate n variables are successfully executed
